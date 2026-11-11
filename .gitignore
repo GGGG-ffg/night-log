@@ -1,0 +1,11 @@
+preview.jpg
+site-deploy.tar.gz
+NIGHT-LOG-homework.zip
+tmp/
+node_modules/
+
+.openai/
+.env
+.env.*
+*.log
+.tools/

@@ -1,0 +1,1 @@
+const {test}=require('node:test');const assert=require('node:assert/strict');const data=require('../dist/js/gallery-data.js');test('public gallery contains no personal photographs and empty navigation is safe',()=>{assert.equal(data.photos.length,0);assert.equal(data.select('全部').length,0);assert.equal(data.move([],null,1),null);});

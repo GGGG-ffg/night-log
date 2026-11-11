@@ -1,0 +1,2 @@
+/* The pointer field remains behind the document and never captures input. */
+.hero-art{transition:border-color .4s,box-shadow .4s}.pointer-linked .hero-art{border-color:#68eee778;box-shadow:0 0 35px #68eee70b}.pointer-linked .art-bottom>span:first-child{color:#8ae8de}html[data-pointer-background=off] .art-bottom>span:first-child{color:#899b98}html[data-motion=reduced] .hero-art,html[data-motion=off] .hero-art{transition:none}@media(prefers-reduced-motion:reduce){.hero-art{transition:none}}
